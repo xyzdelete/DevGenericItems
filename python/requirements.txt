@@ -1,0 +1,39 @@
+# Packaging
+# python -m pip install -U pip
+
+# Linting / Formatting
+ruff
+
+virtualenv
+setuptools
+build
+twine
+
+# Jupyter
+ipython
+ipykernel
+
+# Tooling
+pre-commit
+nbqa
+
+# Type Checker
+mypy
+mypy-extensions
+
+# Testing
+pytest
+pytest-cov
+pytest-benchmark
+codecov
+
+# Documentation
+mkdocs
+mkdocstrings
+mkdocs-material
+mkdocstrings-python
+Pygments
+
+# Profiling tools
+snakeviz
+pyinstrument
